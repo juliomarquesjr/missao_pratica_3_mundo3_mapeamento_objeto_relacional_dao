@@ -1,4 +1,4 @@
-# 
+ 
 
 ![Logo Estácio](https://raw.githubusercontent.com/juliomarquesjr/missao_pratica_3_mundo3_mapeamento_objeto_relacional_dao/4e7b515b4215102eda7f7d9b1ebe8870fdb92e4c/logo_estacio.jpg)
 
@@ -16,7 +16,7 @@
 
 Projeto encontra-se do diretório **Projetos/src**.
 
-Uma cópia do projeto exportado do Netbeans pode ser encontrada em src/projeto_completo_netbeans.zip
+Uma cópia do projeto exportado do Netbeans pode ser encontrada em **src/projeto_completo_netbeans.zip**
 
 
 
@@ -33,7 +33,5 @@ Porta: 1533
 ```
 
 Essa mesma conexão foi configurada e utilizada durante o desenvolvimento do projeto.
-
-@
 
 
